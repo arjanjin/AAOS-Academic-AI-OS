@@ -1,0 +1,17 @@
+# AAOS — Academic AI Operating System
+# Requirements
+
+# Core AI
+anthropic>=0.40.0
+
+# LangGraph (L6 Self-improving)
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-core>=0.3.0
+
+# HTTP & Async
+httpx>=0.27.0
+
+# Utilities
+python-dotenv>=1.0.0

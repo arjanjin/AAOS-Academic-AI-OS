@@ -1,0 +1,38 @@
+# Environment & Secrets
+.env
+*.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Output & Results (local only)
+results/
+*.json
+!examples/*.json
+
+# Obsidian
+.obsidian/
+*.canvas
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ChromaDB local data
+chromadb/
+chroma.sqlite3
