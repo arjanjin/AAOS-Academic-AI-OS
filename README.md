@@ -7,6 +7,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-green.svg)](https://langchain-ai.github.io/langgraph)
 [![Anthropic](https://img.shields.io/badge/Claude-Sonnet_4-orange.svg)](https://anthropic.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19492175.svg)](https://doi.org/10.5281/zenodo.19492175)
 
 ---
 
@@ -251,9 +252,9 @@ If you use AAOS in your research, please cite:
   title     = {AAOS: Academic AI Operating System — 
                A Self-improving Multi-Agent Framework for Academic Professionals},
   year      = {2026},
-  publisher = {GitHub},
-  url       = {https://github.com/arjin-nu/AAOS-Academic-AI-OS},
-  note      = {KMITL Department of Instrumentation and Control Engineering}
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19492175},
+  url       = {https://doi.org/10.5281/zenodo.19492175}
 }
 ```
 
